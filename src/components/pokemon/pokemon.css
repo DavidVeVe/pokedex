@@ -1,0 +1,21 @@
+.pokemon__card {
+  width: 220px;
+  height: 150px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #16181b;
+  border-radius: 5px;
+}
+.pokemon__figure {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  padding: 0;
+}
+
+.pokemon__card img {
+  width: 120px;
+}
