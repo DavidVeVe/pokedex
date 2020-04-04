@@ -12,8 +12,8 @@ body {
 }
 
 .pokeList {
-  width: 19%;
-  height: 12rem;
+  width: 21%;
+  height: 16rem;
   border: 1px solid black;
   display: flex;
   justify-content: center;

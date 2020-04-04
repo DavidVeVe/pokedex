@@ -1,6 +1,6 @@
 .pokemon__card {
   width: 220px;
-  height: 150px;
+  height: 300px;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -17,5 +17,10 @@
 }
 
 .pokemon__card img {
-  width: 120px;
+  width: 110px;
+}
+
+.tapme {
+  color: #ffffff;
+  font-family: "Permanent Marker", cursive;
 }
