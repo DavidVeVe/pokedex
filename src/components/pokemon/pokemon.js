@@ -14,7 +14,7 @@ const Pokemon = ({ image, name, selectOne, id }) => {
       <figure className="pokemon__figure">
         <img src={image} alt="" />
       </figure>
-      <span className='tapme'>Tap me!</span>
+      <span className='tapme'>Click or Tap me!</span>
     </div>
   );
 };
